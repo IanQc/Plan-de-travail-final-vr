@@ -25,5 +25,7 @@
 
 
  Énigme 1: Jeux de mémoire
+ 
  Énigme 2: Idée(Jeux de math: 9 cases et il faut les aligner dans un certain sens)
+ 
  Énigme 3: Lier les objets à des charades.
