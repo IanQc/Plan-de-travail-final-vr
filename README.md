@@ -5,9 +5,13 @@
 
 # Description écrite
  Room 1: Début de l'aventure dans une cellule dans un dunjon, le joueur doit trouver comment s'en échapper.
+ 
  Room 2: Parcours style blade & sorcery pour se rendre a la Room 3
+ 
  Room 3: Dans cette room on peut retrouver 3 énigmes a résoudre dans un certain temps
+ 
  Room 4:
+ 
  Room 5:
 
  Réussite: Vous avez réussi et vous vous retrouvez a l'extérieur
