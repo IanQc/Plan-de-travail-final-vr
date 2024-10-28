@@ -4,6 +4,9 @@
   Escape game dans un donjon dans lequel on a des énigmes, parcours et autres épreuves pour s'échapper.
 
 # Description écrite
+Le jeux débute alors que le joueur se réveille emprisonné dans la cellule d'un dongon en ruine. Sur le sol, se trouve un manuscrit décrivant le contexte de l'histoire ainsi que les consignes du jeux. Parmis ceux-ci le joueur apprend qu'il peut a l'aide d'un sort (appuyer sur X), voyager entre le passé et le présent. Le joueur va allors devoir apprendre a utilisé ses pouvoirs pour s'échapper de sa cellule, résoudre des énigmes et tout autres obstacles se présentant sur son chemin. Ps: Le présent est démolie, en ruine et l'athmosphere est dense, alors que le passé est en bon état, comme neuf et donne l'impression que le dongon viens d'être construit.
+
+
  Room 1: Début de l'aventure dans une cellule dans un dunjon, le joueur doit trouver comment s'en échapper.
  
  Room 2: Parcours style blade & sorcery pour se rendre a la Room 3
