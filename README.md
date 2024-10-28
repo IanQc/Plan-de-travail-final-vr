@@ -31,7 +31,7 @@ Room 1: Avant de pouvoir interragir avec quoi que ce soit, le joueur doit prendr
 
  Énigme 1: Jeux de mémoire
  
- Énigme 2: Idée(Jeux de math: 9 cases et il faut les aligner dans un certain sens)
+ Énigme 2: Sur une table se retrouve un socle contenant une grille de 3x3 contenant des dalles carrés chiffrées de 1 a 9. Le joueur doit ensuite les placer dans un certain ordre sur la grille pour faire en sorte que la somme des chiffres de n'importe quel colones, lignes ou diagonales égal a 15.
  
  Énigme 3: Lier les objets à des charades.
 
