@@ -42,6 +42,8 @@ Room 1: Avant de pouvoir interragir avec quoi que ce soit, le joueur doit prendr
 ## Ambience sonore 
 [Ambience 1](https://www.youtube.com/watch?v=bxoRRobHtGM&t=151s)
 
+[Ambiance 2](https://youtu.be/DRFHklnN-SM) (On se concentre sur la melodie)
+
 [Son_téléportation](audio/tp_sound_idea.wav)
 
 Pour la première ambiance, nous cherchons une atmosphère plutôt sombre, qui illustre bien l’environnement détruit et le sentiment mystérieux du cachot. Des sons comme des craquements, des cris silencieux, des oiseaux ou chauffe-souris, pour vraiment vendre l’idée que ce cachot n’est plus habité et même un peu hanté. Ensuite, pour la deuxième ambiance, nous cherchons quelque chose qui démontre la bonne nature du cachot lorsqu’il était propre et bien entretenu. De la musique qui joue, une ambiance calme, etc.
