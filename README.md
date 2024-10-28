@@ -40,7 +40,7 @@ Room 1: Avant de pouvoir interragir avec quoi que ce soit, le joueur doit prendr
 
 
 ## Ambience sonore 
-[Ambience 1]((https://www.youtube.com/watch?v=bxoRRobHtGM&t=151s))
+[Ambience 1](https://www.youtube.com/watch?v=bxoRRobHtGM&t=151s)
 
 [Son_téléportation](audio/tp_sound_idea.wav)
 
