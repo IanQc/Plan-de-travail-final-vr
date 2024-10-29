@@ -27,7 +27,7 @@ Le jeu débute alors que le joueur se réveille emprisonné dans la cellule d'un
 
 - **Salle *Easter egg*:** Depuis la salle 2 du parcours, chemin secondaire permettant de se rendre à une chambre au trésor donnant certains avantages et surtout de l'or.
 
-- **Idée supplémentaire à intégrer:** Donjon instable au niveau du temps. Donc, le joueur peut interagir avec 2 versions de l'environnement (Passé et Présent). Pour compléter le jeu, le joueur devra alterner entre les deux temps et utiliser les deux environnements pour s'en sortir.
+
 
 ## Énigmes de la salle 3
 
