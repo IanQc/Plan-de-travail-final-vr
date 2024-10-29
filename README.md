@@ -41,7 +41,7 @@ Le jeu débute alors que le joueur se réveille emprisonné dans la cellule d'un
 ![moodboard](images/moodboard_vr.png)
 
 ## Schéma de programmation et d'interactivité.
-![moodboard](images/programmation2-v4.png)
+![moodboard](images/programmation2-v3.png)
 
 ## Carte
 ![Carte1](images/carte1.png)
