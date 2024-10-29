@@ -40,6 +40,9 @@ Le jeu débute alors que le joueur se réveille emprisonné dans la cellule d'un
 ## Moodboard
 ![moodboard](images/moodboard_vr.png)
 
+## Schéma de programmation et d'interactivité.
+![moodboard](images/moodboard_vr.png)
+
 ## Ambience sonore 
 - [Ambience 1](https://www.youtube.com/watch?v=bxoRRobHtGM&t=151s)
 
